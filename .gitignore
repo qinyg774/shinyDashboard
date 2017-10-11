@@ -1,0 +1,6 @@
+helpers.R
+preAnalysis.R
+preProc.R
+.*
+!/.gitignore
+*.csv
